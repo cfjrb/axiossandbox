@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2021-03-06T15:46:45.688Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" version="14.4.4" etag="V-LYtSjQB9jKoGeMkVgy" type="github"><diagram id="tSYqwocldNWvm2cDMgZ0">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-06T15:48:27.316Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="F0Ha76OvYH6s7eOU-2ha" version="14.4.4" type="github">
+  <diagram id="tSYqwocldNWvm2cDMgZ0" name="Page-1">
+    <mxGraphModel dx="966" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="B6BFdCd_FMggiYGaZDP6-1" value="" style="endArrow=classic;html=1;" edge="1" parent="1" target="B6BFdCd_FMggiYGaZDP6-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="520" as="sourcePoint" />
+            <mxPoint x="80" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B6BFdCd_FMggiYGaZDP6-2" value="" style="endArrow=classic;html=1;" edge="1" parent="1" target="B6BFdCd_FMggiYGaZDP6-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="520" as="sourcePoint" />
+            <mxPoint x="560" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B6BFdCd_FMggiYGaZDP6-3" value="" style="endArrow=none;html=1;" edge="1" parent="1" target="B6BFdCd_FMggiYGaZDP6-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="430" as="sourcePoint" />
+            <mxPoint x="530" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B6BFdCd_FMggiYGaZDP6-4" value="" style="endArrow=none;html=1;" edge="1" parent="1" target="B6BFdCd_FMggiYGaZDP6-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="190" as="sourcePoint" />
+            <mxPoint x="450" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B6BFdCd_FMggiYGaZDP6-5" value="Demand" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="280" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B6BFdCd_FMggiYGaZDP6-6" value="Supply" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="60" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B6BFdCd_FMggiYGaZDP6-7" value="Price" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="30" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B6BFdCd_FMggiYGaZDP6-8" value="Quantity" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="510" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
